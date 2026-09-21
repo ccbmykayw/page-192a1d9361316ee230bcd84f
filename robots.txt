@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bmq1y.cn/sitemap.xml
